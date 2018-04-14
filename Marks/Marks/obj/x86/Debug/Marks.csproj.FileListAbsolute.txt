@@ -1,0 +1,9 @@
+F:\Programming\C#\8kals\files\Marks\Marks\bin\Debug\Marks.exe
+F:\Programming\C#\8kals\files\Marks\Marks\bin\Debug\Marks.pdb
+F:\Programming\C#\8kals\files\Marks\Marks\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming\C#\8kals\files\Marks\Marks\obj\x86\Debug\Marks.Form1.resources
+F:\Programming\C#\8kals\files\Marks\Marks\obj\x86\Debug\Marks.Properties.Resources.resources
+F:\Programming\C#\8kals\files\Marks\Marks\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programming\C#\8kals\files\Marks\Marks\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programming\C#\8kals\files\Marks\Marks\obj\x86\Debug\Marks.exe
+F:\Programming\C#\8kals\files\Marks\Marks\obj\x86\Debug\Marks.pdb
