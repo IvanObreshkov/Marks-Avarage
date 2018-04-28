@@ -7,3 +7,12 @@ F:\Programming\C#\8kals\files\Marks\Marks\obj\x86\Debug\GenerateResource.read.1.
 F:\Programming\C#\8kals\files\Marks\Marks\obj\x86\Debug\GenerateResource.write.1.tlog
 F:\Programming\C#\8kals\files\Marks\Marks\obj\x86\Debug\Marks.exe
 F:\Programming\C#\8kals\files\Marks\Marks\obj\x86\Debug\Marks.pdb
+D:\Projects\Programming\Marks-Avarage\Marks\Marks\bin\Debug\Marks.exe
+D:\Projects\Programming\Marks-Avarage\Marks\Marks\bin\Debug\Marks.pdb
+D:\Projects\Programming\Marks-Avarage\Marks\Marks\obj\x86\Debug\Marks.Form1.resources
+D:\Projects\Programming\Marks-Avarage\Marks\Marks\obj\x86\Debug\Marks.Properties.Resources.resources
+D:\Projects\Programming\Marks-Avarage\Marks\Marks\obj\x86\Debug\Marks.csproj.GenerateResource.Cache
+D:\Projects\Programming\Marks-Avarage\Marks\Marks\obj\x86\Debug\Marks.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\Marks-Avarage\Marks\Marks\obj\x86\Debug\Marks.exe
+D:\Projects\Programming\Marks-Avarage\Marks\Marks\obj\x86\Debug\Marks.pdb
+D:\Projects\Programming\Marks-Avarage\Marks\Marks\obj\x86\Debug\Marks.csprojResolveAssemblyReference.cache

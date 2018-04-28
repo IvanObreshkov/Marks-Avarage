@@ -7,3 +7,11 @@ F:\Programming\C#\8kals\files\Marks\Marks\obj\x86\Release\GenerateResource.read.
 F:\Programming\C#\8kals\files\Marks\Marks\obj\x86\Release\GenerateResource.write.1.tlog
 F:\Programming\C#\8kals\files\Marks\Marks\obj\x86\Release\Marks.exe
 F:\Programming\C#\8kals\files\Marks\Marks\obj\x86\Release\Marks.pdb
+D:\Projects\Programming\Marks-Avarage\Marks\Marks\bin\Release\Marks.exe
+D:\Projects\Programming\Marks-Avarage\Marks\Marks\bin\Release\Marks.pdb
+D:\Projects\Programming\Marks-Avarage\Marks\Marks\obj\x86\Release\Marks.Form1.resources
+D:\Projects\Programming\Marks-Avarage\Marks\Marks\obj\x86\Release\Marks.Properties.Resources.resources
+D:\Projects\Programming\Marks-Avarage\Marks\Marks\obj\x86\Release\Marks.csproj.GenerateResource.Cache
+D:\Projects\Programming\Marks-Avarage\Marks\Marks\obj\x86\Release\Marks.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\Marks-Avarage\Marks\Marks\obj\x86\Release\Marks.exe
+D:\Projects\Programming\Marks-Avarage\Marks\Marks\obj\x86\Release\Marks.pdb
