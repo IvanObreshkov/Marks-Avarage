@@ -24,53 +24,34 @@ namespace Marks
 
         private void button1_Click(object sender, EventArgs e)
         {
-            StreamReader r = new StreamReader("marks.txt",
-                Encoding.GetEncoding("windows-1251"));
-            int num2 = 0, num3 = 0, num4 = 0, num5 = 0, num6 = 0;
-            int num = 0;
-            double sum = 0;
-            string line = "";
-            while (line != null)
+            List<string> lines = new List<string>(File.ReadAllLines("marks.txt"));
+            double avg = 0;
+            foreach (var line in lines)
             {
-                line = r.ReadLine();
-                if (line == "2")
+                switch (line)
                 {
-                    num2++;
+                    case "2":
+                        ti2.Text = (int.Parse(ti2.Text) + 1).ToString();
+                        break;
+                    case "3":
+                        ti3.Text = (int.Parse(ti3.Text) + 1).ToString();
+                        break;
+                    case "4":
+                        ti4.Text = (int.Parse(ti4.Text) + 1).ToString();
+                        break;
+                    case "5":
+                        ti5.Text = (int.Parse(ti5.Text) + 1).ToString();
+                        break;
+                    case "6":
+                        ti6.Text = (int.Parse(ti6.Text) + 1).ToString();
+                        break;
+                    default:
+                        break;
                 }
-                if (line == "3")
-                {
-                    num3++;
-                }
-                if (line == "4")
-                {
-                    num4++;
-                }
-
-                if (line == "5")
-                {
-                    num5++;
-                }
-
-                if (line == "6")
-                {
-                    num6++;
-                }
-                if (line != null)
-                {
-                    sum = sum + double.Parse(line);
-                    num++;
-                }
+                if(line != null) avg += double.Parse(line);
             }
-            r.Close();
-            ti2.Text = num2.ToString();
-            ti3.Text = num3.ToString();
-            ti4.Text = num4.ToString();
-            pate.Text = num5.ToString();
-            ti6.Text = num6.ToString();
-            
-           
-            sum = Math.Round(sum / num, 2);
-            label7.Text = sum.ToString();
+            avg = avg / lines.Count();
+            label7.Text = Math.Round(avg,2).ToString();
         }
     }
 }
